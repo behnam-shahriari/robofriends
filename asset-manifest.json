@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/behnam-shahriari/robofriends/static/css/main.d5f7238f.chunk.css",
+    "main.js": "/behnam-shahriari/robofriends/static/js/main.a6469d25.chunk.js",
+    "main.js.map": "/behnam-shahriari/robofriends/static/js/main.a6469d25.chunk.js.map",
+    "runtime-main.js": "/behnam-shahriari/robofriends/static/js/runtime-main.b6c15cda.js",
+    "runtime-main.js.map": "/behnam-shahriari/robofriends/static/js/runtime-main.b6c15cda.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/behnam-shahriari/robofriends/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dbe75954.chunk.js": "/behnam-shahriari/robofriends/static/js/2.dbe75954.chunk.js",
+    "static/js/2.dbe75954.chunk.js.map": "/behnam-shahriari/robofriends/static/js/2.dbe75954.chunk.js.map",
+    "static/js/3.0f4a524b.chunk.js": "/behnam-shahriari/robofriends/static/js/3.0f4a524b.chunk.js",
+    "static/js/3.0f4a524b.chunk.js.map": "/behnam-shahriari/robofriends/static/js/3.0f4a524b.chunk.js.map",
+    "index.html": "/behnam-shahriari/robofriends/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/behnam-shahriari/robofriends/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.d5f7238f.chunk.css.map": "/behnam-shahriari/robofriends/static/css/main.d5f7238f.chunk.css.map",
+    "static/js/2.dbe75954.chunk.js.LICENSE.txt": "/behnam-shahriari/robofriends/static/js/2.dbe75954.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/behnam-shahriari/robofriends/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6c15cda.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.dbe75954.chunk.js",
+    "static/css/main.d5f7238f.chunk.css",
+    "static/js/main.a6469d25.chunk.js"
+  ]
+}
