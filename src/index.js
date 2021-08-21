@@ -1,12 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-// import App from './App';
-// import Hello from './Hello';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
 import {robots} from './robots';
 import App from './App';
+import './App.css'
 
 ReactDOM.render(
   <React.StrictMode>
